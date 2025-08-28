@@ -13,14 +13,14 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm an **AI/ML Engineer** passionate about creating intelligent, real-world systems.  
-Currently diving deep into **Computer Vision** and **FastAPI Deployment**, I love bridging the gap between **research and production-ready solutions**.  
+I'm an **AI/ML Engineer** passionate about creating **Agentic AI systems** and **Computer Vision solutions**.  
+I focus on building **intelligent agents** that can reason, retrieve, and act autonomously, while also developing **vision-based systems** that bring real-world impact.  
 
-💡 My mission: *Leverage AI to design smarter, more efficient tools that solve meaningful problems.*  
+💡 My mission: *Bridge the gap between cutting-edge AI research and practical, production-ready solutions.* 
 
-- 🔭 Working on: **Computer Vision Projects & Agentic Research Assistants**  
+- 🔭 Working on: **Agentic Research Assistants & Computer Vision Projects**  
 - 🌱 Learning: **Model Optimization, Scaling and Deployment with FastAPI & Docker**  
-- 👯 Open to collaborate on: **Research and Open Scource**  
+- 👯 Open to collaborate on: **Research and Open Scource Work**  
 - 📫 Reach me at: **jenashreyash@gmail.com**
 
 ---
